@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8634D6F-F90B-44E3-9BBF-9300D46A73CA}"
+	ProjectSection(SolutionItems) = preProject
+		http_conn.h = http_conn.h
+		locker.h = locker.h
+		threadpool.cpp = threadpool.cpp
+		threadpool.h = threadpool.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
