@@ -1,0 +1,14 @@
+﻿  VisualGDB: Run "rm -rf "/tmp/VisualGDB/d/c++projects/VS2015Projects/RxHttpServer/RxHttpServer/VisualGDB/Debug"" in directory "" on ryanxin@192.168.1.43 (SSH)
+  VisualGDB: No file changes detected. If you believe it's a mistake, please clean the project and build it again.
+  VisualGDB: Run "make -f "VisualGDB/Debug/RxHttpServer.msbuild-mak" --no-print-directory" in directory "/tmp/VisualGDB/d/c++projects/VS2015Projects/RxHttpServer/RxHttpServer" on ryanxin@192.168.1.43 (SSH)
+  make[1]: *** 没有规则可制作目标“../NetProm/threadpool.cpp”，由“VisualGDB/Debug/threadpool.o” 需求。 停止。
+  VisualGDB/Debug/RxHttpServer.msbuild-mak:13: recipe for target 'all' failed
+  make: *** [all] Error 2
+  -------------------------------------------------------------
+  Command exited with code 2
+  Executable: make
+  Arguments: -f "VisualGDB/Debug/RxHttpServer.msbuild-mak" --no-print-directory
+  Directory: /tmp/VisualGDB/d/c++projects/VS2015Projects/RxHttpServer/RxHttpServer
+  VisualGDB: Error: Command-line action failed
+  VisualGDB: Error: Build has failed. See the Output window for more details.
+C:\Program Files (x86)\Sysprogs\VisualGDB\MSBuild\Targets\remote.targets(15,2): error : Build failed. Please examine the build output (View->Output) for details.
